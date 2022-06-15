@@ -1,0 +1,8 @@
+numpy
+
+[test]
+flake8
+mypy
+pytest
+pytest-cov
+tox
